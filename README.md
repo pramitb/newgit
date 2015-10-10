@@ -1,0 +1,2 @@
+# newgit
+New git repository
